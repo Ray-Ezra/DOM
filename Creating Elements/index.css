@@ -1,0 +1,23 @@
+html{
+    background-color: grey;
+}
+.container{
+    margin-left: 380px;
+    padding-top: 10px;
+    margin-right: 400px;
+    border: solid white;
+    margin-top: 270px;
+    border-radius: 10px;
+
+}
+#main-heading{
+    margin-left: 40px;
+}
+.jar{
+    background-color: white;
+   
+}
+ul li{
+    margin-top: 10px;
+
+}
